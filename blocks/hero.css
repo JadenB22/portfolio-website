@@ -1,0 +1,9 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 80px 48px;
+  background-image: url("../images/pinkfloralbanner.webp") no-repeat center;
+  background-size: cover;
+  color: #fff;
+}

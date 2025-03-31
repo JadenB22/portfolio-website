@@ -1,0 +1,29 @@
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 64px 48px;
+  background-color: #fff6f6;
+}
+
+.about__img {
+  max-width: 400px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background-image: url(../images/plantspinkwall.jpeg);
+}
+
+.about__text {
+  max-width: 500px;
+}
+
+.about__text .section-title {
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+.about__text .section-subtitle {
+  font-size: 16px;
+  color: #444;
+}
